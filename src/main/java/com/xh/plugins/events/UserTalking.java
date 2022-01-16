@@ -7,6 +7,8 @@ import com.eu.habbo.messages.outgoing.generic.alerts.BubbleAlertComposer;
 import com.eu.habbo.plugin.EventHandler;
 import com.eu.habbo.plugin.EventListener;
 import com.eu.habbo.plugin.events.users.UserTalkEvent;
+
+import gnu.trove.impl.hash.THash;
 import gnu.trove.map.hash.THashMap;
 
 import java.sql.Connection;
@@ -51,7 +53,7 @@ public class UserTalking implements EventListener {
     private static boolean findUser(Habbo target){
         return target != null && target.isOnline();
     }
-
+    
     private static void processOK(Habbo client, Habbo target, UserTalkEvent event) {
         if (client.getHabboInfo().getUsername().equals(target.getHabboInfo().getUsername())) {
             client.whisper(Emulator.getTexts().getValue("commands.SM.notSelfSM"));

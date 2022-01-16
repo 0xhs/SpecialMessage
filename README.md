@@ -25,16 +25,21 @@
 
 > - ChatEvent (Örnek '@kullaniciadi [mesaj]')
 
-5000 krediye sahipsen bir arkadaşını etiketleyip onu bulunduğun odaya çağırabilirsin. Eğer istersen mesajda bırakabilirsin. **Kullanım : '@kullaniciadi [mesaj]'**
+5000 krediye sahipsen bir arkadaşını etiketleyip onu bulunduğun odaya çağırabilirsin. Eğer istersen mesajda bırakabilirsin. 
+**Kullanım : '@kullaniciadi [mesaj]'**
 
 [EN]
 **Events**
 
 > - ChatEvent (Example '@username [message]')
 
-If you have 5000 credits, you can tag a friend and invite them to your room. You can leave it in a message if you want. **Usage : '@username [message]'**
+If you have 5000 credits, you can tag a friend and invite them to your room. You can leave it in a message if you want. 
+**Usage : '@username [message]'**
 
 [TR]
 #### Bütün yazılar emulator_texts tablosundan düzenlenmektedir.
 [EN]
 #### All texts can be edited from emulator_texts table.
+
+
+#### This plugin is made for ![#FFD500] RetroLUN Community `#FFD500` by 0xh.
