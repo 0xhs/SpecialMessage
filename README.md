@@ -43,9 +43,9 @@ If you have 5000 credits, you can tag a friend and invite them to your room. You
 **Usage : '@username [message]'**
 
 [TR]
-#### Bütün yazılar emulator_texts tablosundan düzenlenmektedir.
+Bütün yazılar emulator_texts tablosundan düzenlenmektedir.
 [EN]
-#### All texts can be edited from emulator_texts table.
+All texts can be edited from emulator_texts table.
 
 
-#### This plugin is made for **RetroLUN Community** by **0xh**.
+ This plugin is made for **RetroLUN Community** by **0xh**.
