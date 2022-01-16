@@ -1,3 +1,9 @@
+
+<style>
+
+
+</style>
+
 # SpecialMessage
 
 
@@ -43,3 +49,7 @@ If you have 5000 credits, you can tag a friend and invite them to your room. You
 
 
 #### This plugin is made for ![#FFD500] RetroLUN Community `#FFD500` by 0xh.
+
+
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
