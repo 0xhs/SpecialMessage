@@ -9,8 +9,8 @@
 
 [EN] Private messaging between users includes inviting them to the room. Made for **Arcturus Emulator**. It works in **stable version 3.0.0** !
 
-[TR]
 
+[TR] 
 **Komutlar**
 
 > - ÖzelMesajıEngellemek (Örnek ':ignore_sm')
@@ -21,6 +21,20 @@
 > - IgnoreSpecialMessage (Example ':ignore_sm')
 
 [TR]
-### Bütün yazılar emulator_texts tablosundan düzenlenmektedir.
+**Etkinlikler**
+
+> - ChatEvent (Örnek '@kullaniciadi [mesaj]')
+
+5000 krediye sahipsen bir arkadaşını etiketleyip onu bulunduğun odaya çağırabilirsin. Eğer istersen mesajda bırakabilirsin. **Kullanım : '@kullaniciadi [mesaj]'**
+
 [EN]
-### All texts can be edited from emulator_texts table.
+**Events**
+
+> - ChatEvent (Example '@username [message]')
+
+If you have 5000 credits, you can tag a friend and invite them to your room. You can leave it in a message if you want. **Usage : '@username [message]'**
+
+[TR]
+#### Bütün yazılar emulator_texts tablosundan düzenlenmektedir.
+[EN]
+#### All texts can be edited from emulator_texts table.
