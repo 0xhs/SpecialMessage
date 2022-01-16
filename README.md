@@ -48,8 +48,4 @@ If you have 5000 credits, you can tag a friend and invite them to your room. You
 #### All texts can be edited from emulator_texts table.
 
 
-#### This plugin is made for ![#FFD500] RetroLUN Community `#FFD500` by 0xh.
-
-![#f03c15] afjasdjasjds `#f03c15`
-![#f03c15] zxcvcxvzx `#f03c15`
-
+#### This plugin is made for + RetroLUN Community + by 0xh.
