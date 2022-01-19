@@ -11,9 +11,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class IgnoreSpecialMessage extends Command {
-
-    Habbo client;
-    
     public IgnoreSpecialMessage(String permission, String[] keys) {
         super(permission, keys);
     }

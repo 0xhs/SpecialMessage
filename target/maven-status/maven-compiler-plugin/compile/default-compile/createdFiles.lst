@@ -1,5 +1,6 @@
 com\xh\plugins\EmulatorEngine.class
 com\xh\plugins\events\UserTalking.class
+com\xh\plugins\cmd\CustomizablePrefixCommand.class
 com\xh\plugins\cmd\IgnoreSpecialMessage.class
 com\xh\plugins\utils\Extras.class
 com\xh\plugins\events\EmulatorLoad.class

@@ -8,7 +8,6 @@ import com.eu.habbo.plugin.EventHandler;
 import com.eu.habbo.plugin.EventListener;
 import com.eu.habbo.plugin.events.users.UserTalkEvent;
 
-import gnu.trove.impl.hash.THash;
 import gnu.trove.map.hash.THashMap;
 
 import java.sql.Connection;
@@ -21,7 +20,7 @@ public class UserTalking implements EventListener {
 
     @EventHandler
     public static void onUserTalkEvent(UserTalkEvent chatEvent){
-        if(chatEvent.chatMessage.getMessage().startsWith("@")){
+        if(chatEvent.chatMessage.getMessage().startsWith(Emulator.getConfig().getValue("specialMessage.customizablePrefix"))){
             Habbo client   = chatEvent.chatMessage.getHabbo();
             String message = chatEvent.chatMessage.getMessage();
             String[] parts = message.split(" ");
