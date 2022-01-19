@@ -14,11 +14,13 @@
 **Komutlar**
 
 > - ÖzelMesajıEngellemek (Örnek ':ignore_sm')
+> - PrefixGüncellemek    (Örnek ':editPrefix [yeni_prefix]')
 
 [EN]
 **Commands**
 
 > - IgnoreSpecialMessage (Example ':ignore_sm')
+> - editPrefix           (Example ':editPrefix [new_prefix]')
 
 [TR]
 **Etkinlikler**
@@ -38,11 +40,11 @@ If you have 5000 credits, you can tag a friend and invite them to your room. You
 
 [TR]
 
-**Bütün yazılar emulator_texts tablosundan düzenlenmektedir.**
+**Bütün yazılar emulator_texts tablosundan düzenlenmektedir. Mesaj ücretini ayarlamak için emulator_settings bölümüne giriniz, mesaj ücretini kaldırmak istemiyorsanız emulator_settings bölümünde bulabilirsiniz.**
 
 [EN]
 
-**All texts can be edited from emulator_texts table.**
+**All texts can be edited from emulator_texts table. You can enter the emulator_settings section to set the message fee, and if you do not want to pay the message fee, you can find it in the emulator_settings section.**
 
 ## Information
 
